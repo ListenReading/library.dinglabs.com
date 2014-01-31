@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="Jim" audio_filename="3_Friends_chatting_in_Beijing" version="3" version_date="091122">
+<Speakers>
+<Speaker id="spk1" name="Wolf" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="老金" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk3" name="花花" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk4" name="&lt;title>" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="309.147188209">
+<Turn startTime="0" endTime="18.974" speaker="spk4">
+<Sync time="0"/>
+ChineseLingQ, #3 Friends chatting in Beijing
+</Turn>
+<Turn speaker="spk1" startTime="18.974" endTime="22.817">
+<Sync time="18.974"/>
+大家好，欢迎来到我们的Lingq。com，我是Wolf。
+</Turn>
+<Turn speaker="spk2" startTime="22.817" endTime="24.864">
+<Sync time="22.817"/>
+我是老金。
+</Turn>
+<Turn speaker="spk3" startTime="24.864" endTime="27.739">
+<Sync time="24.864"/>
+大家好，我是花花。
+</Turn>
+<Turn speaker="spk1" startTime="27.739" endTime="34.005">
+<Sync time="27.739"/>
+这是我们第一次在这儿聊天，
+<Sync time="30.552"/>
+下面可以请大家介绍一下自己吗？
+</Turn>
+<Turn speaker="spk3" startTime="34.005" endTime="38.537">
+<Sync time="34.005"/>
+首先从我开始吧，
+<Sync time="35.662"/>
+我是花花，来自北京。
+</Turn>
+<Turn speaker="spk1" startTime="38.537" endTime="41.131">
+<Sync time="38.537"/>
+你是做什么工作的？
+</Turn>
+<Turn speaker="spk3" startTime="41.131" endTime="42.944">
+<Sync time="41.131"/>
+我做财务工作。
+</Turn>
+<Turn speaker="spk1" startTime="42.944" endTime="47.914">
+<Sync time="42.944"/>
+哇，你那么年轻,居然做财务？
+<Sync time="45.272"/>
+财务——
+<Sync time="46.21"/>
+我觉得很烦,是吗？
+</Turn>
+<Turn speaker="spk3" startTime="47.914" endTime="51.946">
+<Sync time="47.914"/>
+也没有啊，很简单，
+<Sync time="49.632"/>
+只要你学会了窍门就可以了。
+</Turn>
+<Turn speaker="spk1" startTime="51.946" endTime="55.821">
+<Sync time="51.946"/>
+噢，那你呢？
+<Sync time="53.493"/>
+可以介绍一下你自己吗？
+</Turn>
+<Turn speaker="spk2" startTime="55.821" endTime="60.368">
+<Sync time="55.821"/>
+我是在一个IT公司做工程师。
+</Turn>
+<Turn speaker="spk1" startTime="60.368" endTime="62.337">
+<Sync time="60.368"/>
+哇，高级工程师？
+</Turn>
+<Turn speaker="spk2" startTime="62.337" endTime="64.509">
+<Sync time="62.337"/>
+也不算高级工程师啦。
+</Turn>
+<Turn speaker="spk1" startTime="64.509" endTime="77.274">
+<Sync time="64.509"/>
+我们这个Lingq。com是一个语言学习网站。
+<Sync time="68.556"/>
+我想，今天我们来聊一下"语言学习"这个话题吧。
+<Sync time="74.367"/>
+首先我想问一下你会说几种语言呢？
+</Turn>
+<Turn speaker="spk2" startTime="77.274" endTime="80.492">
+<Sync time="77.274"/>
+会说英语，还有一点点法语。
+</Turn>
+<Turn speaker="spk1" startTime="80.492" endTime="85.46">
+<Sync time="80.492"/>
+你觉得英语有趣还是法语有趣？
+</Turn>
+<Turn speaker="spk2" startTime="85.46" endTime="102.132">
+<Sync time="85.46"/>
+怎么说呢，其实对于我们来说的话，
+<Sync time="88.163"/>
+应该是出于实用的目的吧——
+<Sync time="91.273"/>
+在工作上面用得到。
+<Sync time="93.553"/>
+作为兴趣来说的话在于——
+<Sync time="95.897"/>
+可能对于我来说的话，
+<Sync time="97.257"/>
+没有特别大的兴趣。
+<Sync time="98.866"/>
+学习语言总是很乏味，很困难的。
+</Turn>
+<Turn speaker="spk1" startTime="102.132" endTime="122.618">
+<Sync time="102.132"/>
+也可能很多人都会有这种想法，
+<Sync time="104.819"/>
+就是觉得学习语言是一种很困难的方法——
+<Sync time="108.586"/>
+很困难的事情，
+<Sync time="109.789"/>
+但是，
+<Sync time="111.524"/>
+我想说的是，也有很多人，正在享受这种语言的学习。
+<Sync time="115.79"/>
+就比如，我们网站，这个Lingq。com上面的很多人。
+<Sync time="120.243"/>
+然后，你会说几种语言呢？
+</Turn>
+<Turn speaker="spk3" startTime="122.618" endTime="124.681">
+<Sync time="122.618"/>
+我只会说自己的母语。
+</Turn>
+<Turn speaker="spk1" startTime="124.681" endTime="127.103">
+<Sync time="124.681"/>
+可是，你也会一些英语啊？
+</Turn>
+<Turn speaker="spk3" startTime="127.103" endTime="129.932">
+<Sync time="127.103"/>
+只是简单的，上学的时候学的。
+</Turn>
+<Turn speaker="spk1" startTime="129.932" endTime="135.713">
+<Sync time="129.932"/>
+我想问一下，你们都是用什么办法学外语的呢，以前？
+</Turn>
+<Turn speaker="spk2" startTime="135.713" endTime="144.917">
+<Sync time="135.713"/>
+就是学校教育啊，
+<Sync time="137.245"/>
+还有就是培训班。
+<Sync time="139.964"/>
+然后用这个自己买的资料，然后自学。
+</Turn>
+<Turn speaker="spk3" startTime="144.917" endTime="170.088">
+<Sync time="144.917"/>
+归根结底，其实还是一个大胆去说。
+<Sync time="147.854"/>
+你肯张开嘴，
+<Sync time="148.994"/>
+学语言就已经打开了百分之五十的大门。
+<Sync time="152.214"/>
+我们要先学会去说，才能够学会去理解，
+<Sync time="156.557"/>
+包括听也是很重要。
+<Sync time="158.401"/>
+你首先要听别人怎么说，
+<Sync time="160.307"/>
+怎么发音，
+<Sync time="161.229"/>
+每一个字是怎么吐出来的，
+<Sync time="163.213"/>
+包括他的口形。
+<Sync time="164.682"/>
+还有，他每一个字的精准度，
+<Sync time="167.26"/>
+还有他正确要表达的意思。
+</Turn>
+<Turn speaker="spk1" startTime="170.088" endTime="249.636">
+<Sync time="170.088"/>
+对，我想
+<Sync time="171.656"/>
+这也是我们学习语言的一般规律吧。
+<Sync time="174.291"/>
+因为我们每个人都是从先听，
+<Sync time="177.806"/>
+然后先读开始的。
+<Sync time="179.37"/>
+在我们几岁的时候，
+<Sync time="181.417"/>
+完全都是听和说。
+<Sync time="183.042"/>
+然后，
+<Sync time="184.385"/>
+到了五、六岁的时候，
+<Sync time="185.853"/>
+才开始学着读一些文章，
+<Sync time="188.574"/>
+学着写字，
+<Sync time="189.761"/>
+然后，最后自己写出自己的作文来。
+<Sync time="193.089"/>
+然后还有很重要的一点，就是
+<Sync time="195.902"/>
+我觉得语言的学习，和其它数学啦、物理这方面的学习
+<Sync time="200.465"/>
+都有些不同。
+<Sync time="201.604"/>
+就是语言，
+<Sync time="203.262"/>
+不是主要靠理智去思考的，
+<Sync time="206.244"/>
+而是一种潜意识的学习，是一种潜移默化，
+<Sync time="209.793"/>
+是一种熟能生巧。
+<Sync time="211.886"/>
+我们并不需要在说话之前先想很多，
+<Sync time="216.948"/>
+想它的语法结构，
+<Sync time="218.542"/>
+而是，
+<Sync time="219.277"/>
+直接很熟练的说出来我们要说的东西，
+<Sync time="222.714"/>
+这样就可以了。
+<Sync time="224.072"/>
+我觉得——
+<Sync time="225.963"/>
+什么办法可以让我们
+<Sync time="228.556"/>
+熟能生巧呢？
+<Sync time="229.603"/>
+那就是练习。
+<Sync time="230.65"/>
+只有多读，多听，
+<Sync time="233.447"/>
+然后尽可能的在，
+<Sync time="237.353"/>
+可以在适当的场合去说一些
+<Sync time="241.478"/>
+你要，你正在学的语言。
+<Sync time="243.151"/>
+这样就会更快的掌握这种语言。
+</Turn>
+<Turn speaker="spk2" startTime="249.636" endTime="282.526">
+<Sync time="249.636"/>
+你刚才说的是方法，
+<Sync time="251.339"/>
+然后我还想说的是兴趣。
+<Sync time="253.604"/>
+不管我们学什么东西，
+<Sync time="255.947"/>
+兴趣是最大的动力。
+<Sync time="258.494"/>
+学语言的时候，比如说我们听一个很有意思的小故事，
+<Sync time="262.87"/>
+或者是和朋友聊一些日常生活中感兴趣的事情，
+<Sync time="268.136"/>
+这对于我们听和说都是一个
+<Sync time="271.167"/>
+很大的刺激。
+<Sync time="272.307"/>
+这样的话，我们不知不觉的就能够把学到的东西运用出来。
+<Sync time="278.433"/>
+那么你说一句的话，比听十遍，可能效果都要好。
+</Turn>
+<Turn speaker="spk1" startTime="282.526" endTime="309.147188209">
+<Sync time="282.526"/>
+噢，那么时间也不早了，
+<Sync time="284.87"/>
+已经十一点多了，
+<Sync time="287.527"/>
+今天很感谢大家
+<Sync time="289.168"/>
+在百忙之中抽出宝贵的时间来一起聊聊天，
+<Sync time="294.213"/>
+谢谢大家，我们下次再见。
+</Turn>
+</Section>
+</Episode>
+</Trans>

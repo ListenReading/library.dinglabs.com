@@ -1,0 +1,398 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<book xmlns="http://www.example.org/Book" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.example.org/Book Book.xsd " 
+	title=" The Linguist: A Personal Guide to Language Learning" 
+	audioSource="http://www.thelinguist.com/en/en/book-contents/"
+	textSource="http://www.thelinguist.com/en/en/book/"
+	viewCount="1229"
+	author="Steve Kaufmann"
+	
+	
+	
+>
+
+	
+		<section title="Introduction" />
+	
+	<chapter 
+		audioUrl="http://library.dinglabs.com/books/files/87.mp3"
+		trsUrl="http://library.dinglabs.com/books/files/87.trs"
+		title="Zhuangzi&apos;s Crooked Tree" />
+
+	
+	<chapter 
+		audioUrl="http://library.dinglabs.com/books/files/88.mp3"
+		trsUrl="http://library.dinglabs.com/books/files/88.trs"
+		title="Are You a Linguist?" />
+
+	
+	<chapter 
+		audioUrl="http://library.dinglabs.com/books/files/89.mp3"
+		trsUrl="http://library.dinglabs.com/books/files/89.trs"
+		title="About Learning English" />
+
+	
+	<chapter 
+		audioUrl="http://library.dinglabs.com/books/files/90.mp3"
+		trsUrl="http://library.dinglabs.com/books/files/90.trs"
+		title="About this Book" />
+
+	
+		<section title="A Language Adventure" />
+	
+	<chapter 
+		audioUrl="http://library.dinglabs.com/books/files/91.mp3"
+		trsUrl="http://library.dinglabs.com/books/files/91.trs"
+		title="The Start of the Journey" />
+
+	
+	<chapter 
+		audioUrl="http://library.dinglabs.com/books/files/92.mp3"
+		trsUrl="http://library.dinglabs.com/books/files/92.trs"
+		title="Two Solitudes in Montreal" />
+
+	
+	<chapter 
+		audioUrl="http://library.dinglabs.com/books/files/93.mp3"
+		trsUrl="http://library.dinglabs.com/books/files/93.trs"
+		title="I Take Charge of My Learning" />
+
+	
+	<chapter 
+		audioUrl="http://library.dinglabs.com/books/files/94.mp3"
+		trsUrl="http://library.dinglabs.com/books/files/94.trs"
+		title="Off To Europe. My Adventure Begins" />
+
+	
+	<chapter 
+		audioUrl="http://library.dinglabs.com/books/files/95.mp3"
+		trsUrl="http://library.dinglabs.com/books/files/95.trs"
+		title="Sciences Po" />
+
+	
+	<chapter 
+		audioUrl="http://library.dinglabs.com/books/files/96.mp3"
+		trsUrl="http://library.dinglabs.com/books/files/96.trs"
+		title="Travel And Culture" />
+
+	
+	<chapter 
+		audioUrl="http://library.dinglabs.com/books/files/97.mp3"
+		trsUrl="http://library.dinglabs.com/books/files/97.trs"
+		title="Hitchhiking in Europe" />
+
+	
+	<chapter 
+		audioUrl="http://library.dinglabs.com/books/files/98.mp3"
+		trsUrl="http://library.dinglabs.com/books/files/98.trs"
+		title="Spain in 1960" />
+
+	
+	<chapter 
+		audioUrl="http://library.dinglabs.com/books/files/99.mp3"
+		trsUrl="http://library.dinglabs.com/books/files/99.trs"
+		title="Paris in 1960" />
+
+	
+	<chapter 
+		audioUrl="http://library.dinglabs.com/books/files/100.mp3"
+		trsUrl="http://library.dinglabs.com/books/files/100.trs"
+		title="My First Real Job" />
+
+	
+	<chapter 
+		audioUrl="http://library.dinglabs.com/books/files/101.mp3"
+		trsUrl="http://library.dinglabs.com/books/files/101.trs"
+		title="Discovering Asian Culture. Creating An Opportunity, Ottawa 1967" />
+
+	
+	<chapter 
+		audioUrl="http://library.dinglabs.com/books/files/102.mp3"
+		trsUrl="http://library.dinglabs.com/books/files/102.trs"
+		title="Intensity, Hong Kong 1968" />
+
+	
+	<chapter 
+		audioUrl="http://library.dinglabs.com/books/files/103.mp3"
+		trsUrl="http://library.dinglabs.com/books/files/103.trs"
+		title="Reading And Vocabulary Growth" />
+
+	
+	<chapter 
+		audioUrl="http://library.dinglabs.com/books/files/104.mp3"
+		trsUrl="http://library.dinglabs.com/books/files/104.trs"
+		title="Importance of Phrases" />
+
+	
+	<chapter 
+		audioUrl="http://library.dinglabs.com/books/files/105.mp3"
+		trsUrl="http://library.dinglabs.com/books/files/105.trs"
+		title="Pronunciation" />
+
+	
+	<chapter 
+		audioUrl="http://library.dinglabs.com/books/files/106.mp3"
+		trsUrl="http://library.dinglabs.com/books/files/106.trs"
+		title="Crossing Into China, Canton 1969" />
+
+	
+	<chapter 
+		audioUrl="http://library.dinglabs.com/books/files/107.mp3"
+		trsUrl="http://library.dinglabs.com/books/files/107.trs"
+		title="Working and Learning in Japan" />
+
+	
+	<chapter 
+		audioUrl="http://library.dinglabs.com/books/files/109.mp3"
+		trsUrl="http://library.dinglabs.com/books/files/109.trs"
+		title="Setting Language Goals, Tokyo 1971" />
+
+	
+	<chapter 
+		audioUrl="http://library.dinglabs.com/books/files/110.mp3"
+		trsUrl="http://library.dinglabs.com/books/files/110.trs"
+		title="Seeking Out Content" />
+
+	
+	<chapter 
+		audioUrl="http://library.dinglabs.com/books/files/111.mp3"
+		trsUrl="http://library.dinglabs.com/books/files/111.trs"
+		title="Is Japanese Difficult?" />
+
+	
+	<chapter 
+		audioUrl="http://library.dinglabs.com/books/files/112.mp3"
+		trsUrl="http://library.dinglabs.com/books/files/112.trs"
+		title="Polite Language" />
+
+	
+	<chapter 
+		audioUrl="http://library.dinglabs.com/books/files/113.mp3"
+		trsUrl="http://library.dinglabs.com/books/files/113.trs"
+		title="Japan Incorporated" />
+
+	
+	<chapter 
+		audioUrl="http://library.dinglabs.com/books/files/114.mp3"
+		trsUrl="http://library.dinglabs.com/books/files/114.trs"
+		title="Fitting In" />
+
+	
+	<chapter 
+		audioUrl="http://library.dinglabs.com/books/files/115.mp3"
+		trsUrl="http://library.dinglabs.com/books/files/115.trs"
+		title="Exploring Languages at Home" />
+
+	
+	<chapter 
+		audioUrl="http://library.dinglabs.com/books/files/116.mp3"
+		trsUrl="http://library.dinglabs.com/books/files/116.trs"
+		title="A World Apart" />
+
+	
+	<chapter 
+		audioUrl="http://library.dinglabs.com/books/files/117.mp3"
+		trsUrl="http://library.dinglabs.com/books/files/117.trs"
+		title="German" />
+
+	
+	<chapter 
+		audioUrl="http://library.dinglabs.com/books/files/118.mp3"
+		trsUrl="http://library.dinglabs.com/books/files/118.trs"
+		title="Italian" />
+
+	
+	<chapter 
+		audioUrl="http://library.dinglabs.com/books/files/119.mp3"
+		trsUrl="http://library.dinglabs.com/books/files/119.trs"
+		title="Cantonese" />
+
+	
+	<chapter 
+		audioUrl="http://library.dinglabs.com/books/files/120.mp3"
+		trsUrl="http://library.dinglabs.com/books/files/120.trs"
+		title="Language and International Business" />
+
+	
+	<chapter 
+		audioUrl="http://library.dinglabs.com/books/files/121.mp3"
+		trsUrl="http://library.dinglabs.com/books/files/121.trs"
+		title="Opportunity" />
+
+	
+	<chapter 
+		audioUrl="http://library.dinglabs.com/books/files/122.mp3"
+		trsUrl="http://library.dinglabs.com/books/files/122.trs"
+		title="Success" />
+
+	
+		<section title="The Attitude of a Linguist" />
+	
+	<chapter 
+		audioUrl="http://library.dinglabs.com/books/files/123.mp3"
+		trsUrl="http://library.dinglabs.com/books/files/123.trs"
+		title="Just Communicate" />
+
+	
+	<chapter 
+		audioUrl="http://library.dinglabs.com/books/files/124.mp3"
+		trsUrl="http://library.dinglabs.com/books/files/124.trs"
+		title="Resistance to Language Learning" />
+
+	
+	<chapter 
+		audioUrl="http://library.dinglabs.com/books/files/125.mp3"
+		trsUrl="http://library.dinglabs.com/books/files/125.trs"
+		title="Overcoming Resistance to Language Learning" />
+
+	
+	<chapter 
+		audioUrl="http://library.dinglabs.com/books/files/126.mp3"
+		trsUrl="http://library.dinglabs.com/books/files/126.trs"
+		title="Communicate at Your Level" />
+
+	
+	<chapter 
+		audioUrl="http://library.dinglabs.com/books/files/127.mp3"
+		trsUrl="http://library.dinglabs.com/books/files/127.trs"
+		title="Discover Language Naturally" />
+
+	
+	<chapter 
+		audioUrl="http://library.dinglabs.com/books/files/128.mp3"
+		trsUrl="http://library.dinglabs.com/books/files/128.trs"
+		title="The Limits of Language Teaching" />
+
+	
+	<chapter 
+		audioUrl="http://library.dinglabs.com/books/files/129.mp3"
+		trsUrl="http://library.dinglabs.com/books/files/129.trs"
+		title="Natural Learning" />
+
+	
+	<chapter 
+		audioUrl="http://library.dinglabs.com/books/files/130.mp3"
+		trsUrl="http://library.dinglabs.com/books/files/130.trs"
+		title="Identity and Language" />
+
+	
+	<chapter 
+		audioUrl="http://library.dinglabs.com/books/files/131.mp3"
+		trsUrl="http://library.dinglabs.com/books/files/131.trs"
+		title="The Fundamental Similarity of Human Beings" />
+
+	
+	<chapter 
+		audioUrl="http://library.dinglabs.com/books/files/132.mp3"
+		trsUrl="http://library.dinglabs.com/books/files/132.trs"
+		title="Human Culture is Universal" />
+
+	
+	<chapter 
+		audioUrl="http://library.dinglabs.com/books/files/133.mp3"
+		trsUrl="http://library.dinglabs.com/books/files/133.trs"
+		title="Individuals in a Shrinking World" />
+
+	
+		<section title="How to Learn a Language" />
+	
+	<chapter 
+		audioUrl="http://library.dinglabs.com/books/files/134.mp3"
+		trsUrl="http://library.dinglabs.com/books/files/134.trs"
+		title="Conviviality" />
+
+	
+	<chapter 
+		audioUrl="http://library.dinglabs.com/books/files/135.mp3"
+		trsUrl="http://library.dinglabs.com/books/files/135.trs"
+		title="Focus On Input First" />
+
+	
+	<chapter 
+		audioUrl="http://library.dinglabs.com/books/files/136.mp3"
+		trsUrl="http://library.dinglabs.com/books/files/136.trs"
+		title="Listening" />
+
+	
+	<chapter 
+		audioUrl="http://library.dinglabs.com/books/files/137.mp3"
+		trsUrl="http://library.dinglabs.com/books/files/137.trs"
+		title="Reading" />
+
+	
+	<chapter 
+		audioUrl="http://library.dinglabs.com/books/files/138.mp3"
+		trsUrl="http://library.dinglabs.com/books/files/138.trs"
+		title="Learn To Express Yourself" />
+
+	
+	<chapter 
+		audioUrl="http://library.dinglabs.com/books/files/139.mp3"
+		trsUrl="http://library.dinglabs.com/books/files/139.trs"
+		title="Pronunciation" />
+
+	
+	<chapter 
+		audioUrl="http://library.dinglabs.com/books/files/140.mp3"
+		trsUrl="http://library.dinglabs.com/books/files/140.trs"
+		title="Writing" />
+
+	
+	<chapter 
+		audioUrl="http://library.dinglabs.com/books/files/141.mp3"
+		trsUrl="http://library.dinglabs.com/books/files/141.trs"
+		title="Conversation" />
+
+	
+	<chapter 
+		audioUrl="http://library.dinglabs.com/books/files/142.mp3"
+		trsUrl="http://library.dinglabs.com/books/files/142.trs"
+		title="Create Intensity" />
+
+	
+	<chapter 
+		audioUrl="http://library.dinglabs.com/books/files/143.mp3"
+		trsUrl="http://library.dinglabs.com/books/files/143.trs"
+		title="Invest in the Tools" />
+
+	
+	<chapter 
+		audioUrl="http://library.dinglabs.com/books/files/144.mp3"
+		trsUrl="http://library.dinglabs.com/books/files/144.trs"
+		title="Set Clear Goals" />
+
+	
+		<section title="A Final Word" />
+	
+	<chapter 
+		audioUrl="http://library.dinglabs.com/books/files/145.mp3"
+		trsUrl="http://library.dinglabs.com/books/files/145.trs"
+		title="A Final Word" />
+
+	
+		<section title="Appendix" />
+	
+	<chapter 
+		audioUrl="http://library.dinglabs.com/books/files/146.mp3"
+		trsUrl="http://library.dinglabs.com/books/files/146.trs"
+		title="For Immigrants and Potential Immigrants to Canada" />
+
+	
+	<chapter 
+		audioUrl="http://library.dinglabs.com/books/files/147.mp3"
+		trsUrl="http://library.dinglabs.com/books/files/147.trs"
+		title="A History of English Speaking Canada" />
+
+	
+	<chapter 
+		audioUrl="http://library.dinglabs.com/books/files/148.mp3"
+		trsUrl="http://library.dinglabs.com/books/files/148.trs"
+		title="The Immigrant Experience" />
+
+	
+	<chapter 
+		audioUrl="http://library.dinglabs.com/books/files/149.mp3"
+		trsUrl="http://library.dinglabs.com/books/files/149.trs"
+		title="Job Opportunities" />
+
+
+</book>

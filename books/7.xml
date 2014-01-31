@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<book xmlns="http://www.example.org/Book" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.example.org/Book Book.xsd " 
+	title="EnglishLingQ Podcast" 
+	audioSource=""
+	textSource="http://www.lingq.com/learn/en/store/23894/"
+	viewCount="173"
+	author="EnglishLingQ.com"	
+>
+	<chapter 
+		audioUrl="http://library.dinglabs.com/books/files/39.mp3"
+		trsUrl="http://library.dinglabs.com/books/files/39.trs"
+		title="#4 Darcy Rezac, Managing Director of the Vancouver Board of Trade" />
+</book>

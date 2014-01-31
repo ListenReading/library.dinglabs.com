@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<book xmlns="http://www.example.org/Book" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.example.org/Book Book.xsd " 
+	title="ChineseLingQ Podcast" 
+	audioSource=""
+	textSource="http://www.lingq.com/learn/zh/store/26942/#31702"
+	viewCount="519"
+	author="ChineseLingQ.com"
+	fontSize="20"
+	fontFamily="SimSun"
+	lineHeight="150%"
+>
+
+	
+	<chapter 
+		audioUrl="http://library.dinglabs.com/books/files/20.mp3"
+		trsUrl="http://library.dinglabs.com/books/files/20.trs"
+		title="#1 Tony adapts to Vancouver" />
+
+	
+	<chapter 
+		audioUrl="http://library.dinglabs.com/books/files/21.mp3"
+		trsUrl="http://library.dinglabs.com/books/files/21.trs"
+		title="#2 Helen, a TV reporter from Taiyuan" />
+
+	
+	<chapter 
+		audioUrl="http://library.dinglabs.com/books/files/22.mp3"
+		trsUrl="http://library.dinglabs.com/books/files/22.trs"
+		title="#3 Friends chatting in Beijing" />
+
+	
+	<chapter 
+		audioUrl="http://library.dinglabs.com/books/files/23.mp3"
+		trsUrl="http://library.dinglabs.com/books/files/23.trs"
+		title="#4 A Talk about Smoking" />
+
+	
+	<chapter 
+		audioUrl="http://library.dinglabs.com/books/files/24.mp3"
+		trsUrl="http://library.dinglabs.com/books/files/24.trs"
+		title="#5 Climate of Beijing" />
+
+	
+	<chapter 
+		audioUrl="http://library.dinglabs.com/books/files/25.mp3"
+		trsUrl="http://library.dinglabs.com/books/files/25.trs"
+		title="#6 A Talk about Love and Marriage" />
+
+	
+	<chapter 
+		audioUrl="http://library.dinglabs.com/books/files/26.mp3"
+		trsUrl="http://library.dinglabs.com/books/files/26.trs"
+		title="#7 The Sichuan Earthquake" />
+
+	
+	<chapter 
+		audioUrl="http://library.dinglabs.com/books/files/27.mp3"
+		trsUrl="http://library.dinglabs.com/books/files/27.trs"
+		title="#8 After the Earthquake" />
+
+	
+	<chapter 
+		audioUrl="http://library.dinglabs.com/books/files/28.mp3"
+		trsUrl="http://library.dinglabs.com/books/files/28.trs"
+		title="#9 Wolf &amp; Huahua - Dragon Boat Festival" />
+
+	
+	<chapter 
+		audioUrl="http://library.dinglabs.com/books/files/29.mp3"
+		trsUrl="http://library.dinglabs.com/books/files/29.trs"
+		title="#10 Huahua - Huahua&apos;s Diary-Beijing, Afternoon, Coffee, and Well-being" />
+
+	
+	<chapter 
+		audioUrl="http://library.dinglabs.com/books/files/30.mp3"
+		trsUrl="http://library.dinglabs.com/books/files/30.trs"
+		title="#11 Huahua &amp; Wolf - Sports" />
+
+	
+	<chapter 
+		audioUrl="http://library.dinglabs.com/books/files/31.mp3"
+		trsUrl="http://library.dinglabs.com/books/files/31.trs"
+		title="#12 Wolf &amp; Huahua - A Talk about Music" />
+
+	
+	<chapter 
+		audioUrl="http://library.dinglabs.com/books/files/32.mp3"
+		trsUrl="http://library.dinglabs.com/books/files/32.trs"
+		title="#13 Wolf &amp; Liu Jingjing - Pre-Olympic Traffic in Beijing" />
+
+	
+	<chapter 
+		audioUrl="http://library.dinglabs.com/books/files/33.mp3"
+		trsUrl="http://library.dinglabs.com/books/files/33.trs"
+		title="#14 Wolf &amp; Huahua - A Talk about Chinese Mandarin 1" />
+
+	
+	<chapter 
+		audioUrl="http://library.dinglabs.com/books/files/34.mp3"
+		trsUrl="http://library.dinglabs.com/books/files/34.trs"
+		title="#15 Wolf &amp; Huahua - A Talk about Chinese Mandarin 2" />
+
+	
+	<chapter 
+		audioUrl="http://library.dinglabs.com/books/files/35.mp3"
+		trsUrl="http://library.dinglabs.com/books/files/35.trs"
+		title="#16 Wolf &amp; Huahua - 2008 Olympics Opening Ceremony" />
+
+	
+	<chapter 
+		audioUrl="http://library.dinglabs.com/books/files/36.mp3"
+		trsUrl="http://library.dinglabs.com/books/files/36.trs"
+		title="#17 Wolf &amp; Huahua - A Rainy Day" />
+
+
+</book>

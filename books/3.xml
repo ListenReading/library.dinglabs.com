@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<book xmlns="http://www.example.org/Book" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.example.org/Book Book.xsd " 
+	title="Alice&apos;s Adventures in Wonderland (Abridged)" 
+	audioSource="http://librivox.org/alices-adventures-in-wonderland-by-lewis-carroll-2/"
+	textSource="http://www.gutenberg.org/etext/19033"
+	viewCount="3470"
+	author="Lewis Carroll"
+	
+	
+	
+>
+
+	
+	<chapter 
+		audioUrl="http://library.dinglabs.com/books/files/10.mp3"
+		trsUrl="http://library.dinglabs.com/books/files/10.trs"
+		title="1. Down the Rabbit-Hole" />
+
+	
+	<chapter 
+		audioUrl="http://library.dinglabs.com/books/files/11.mp3"
+		trsUrl="http://library.dinglabs.com/books/files/11.trs"
+		title="2. The Pool of Tears" />
+
+	
+	<chapter 
+		audioUrl="http://library.dinglabs.com/books/files/12.mp3"
+		trsUrl="http://library.dinglabs.com/books/files/12.trs"
+		title="3. A Caucus Race and a Long Tale" />
+
+	
+	<chapter 
+		audioUrl="http://library.dinglabs.com/books/files/13.mp3"
+		trsUrl="http://library.dinglabs.com/books/files/13.trs"
+		title="4. The Rabbit Sends in a Little Bill" />
+
+	
+	<chapter 
+		audioUrl="http://library.dinglabs.com/books/files/14.mp3"
+		trsUrl="http://library.dinglabs.com/books/files/14.trs"
+		title="5. Advice from a Caterpillar" />
+
+	
+	<chapter 
+		audioUrl="http://library.dinglabs.com/books/files/15.mp3"
+		trsUrl="http://library.dinglabs.com/books/files/15.trs"
+		title="6. Pig and Pepper" />
+
+	
+	<chapter 
+		audioUrl="http://library.dinglabs.com/books/files/16.mp3"
+		trsUrl="http://library.dinglabs.com/books/files/16.trs"
+		title="7. A Mad Tea-Party" />
+
+	
+	<chapter 
+		audioUrl="http://library.dinglabs.com/books/files/17.mp3"
+		trsUrl="http://library.dinglabs.com/books/files/17.trs"
+		title="8. The Queen&apos;s Croquet Ground" />
+
+	
+	<chapter 
+		audioUrl="http://library.dinglabs.com/books/files/18.mp3"
+		trsUrl="http://library.dinglabs.com/books/files/18.trs"
+		title="9. Who Stole the Tarts?" />
+
+	
+	<chapter 
+		audioUrl="http://library.dinglabs.com/books/files/19.mp3"
+		trsUrl="http://library.dinglabs.com/books/files/19.trs"
+		title="10. Alice&apos;s Evidence" />
+
+
+</book>

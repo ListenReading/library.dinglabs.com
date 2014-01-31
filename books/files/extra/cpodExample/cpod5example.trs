@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="jim" audio_filename="dsc005" version="2" version_date="091219">
+<Speakers>
+<Speaker id="spk1" name="&lt;p>" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="男" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk3" name="Male" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk4" name="Female" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk5" name="&lt;title>" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="10.6318367347">
+<Turn startTime="0" endTime="0.313" speaker="spk5">
+<Sync time="0"/>
+Chinese, Lesson 005
+</Turn>
+<Turn speaker="spk3" startTime="0.313" endTime="4.365">
+<Sync time="0.313"/>
+请问
+<Sync time="1.849"/>
+有
+<Sync time="2.564"/>
+菜单
+<Sync time="3.472"/>
+吗 ？
+</Turn>
+<Turn speaker="spk4" startTime="4.365" endTime="8.798">
+<Sync time="4.365"/>
+有的。
+<Sync time="6.151"/>
+请
+<Sync time="6.943"/>
+稍等。
+</Turn>
+<Turn speaker="spk3" startTime="8.798" endTime="10.6318367347">
+<Sync time="8.798"/>
+好的。
+</Turn>
+</Section>
+</Episode>
+</Trans>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<book xmlns="http://www.example.org/Book" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.example.org/Book Book.xsd " 
+	title="Belote et Laidronette" 
+	audioSource="http://www.litteratureaudio.com/livre-audio-gratuit-mp3/leprince-de-beaumont-jeanne-marie-belote-et-laidronette.html"
+	textSource="http://fr.wikisource.org/wiki/Belote_et_Laidronette"
+	viewCount="129"
+	author="Jeanne Marie Leprince de Beaumont"
+	
+	
+	
+>
+
+	
+	<chapter 
+		audioUrl="http://library.dinglabs.com/books/files/176.mp3"
+		trsUrl="http://library.dinglabs.com/books/files/176.trs"
+		title="Belote et Laidronette" />
+
+
+</book>

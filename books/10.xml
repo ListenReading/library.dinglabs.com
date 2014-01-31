@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<book xmlns="http://www.example.org/Book" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.example.org/Book Book.xsd " 
+	title="[Slow Speed Experiment] Alice&apos;s Adventures in Wonderland (Abridged)" 
+	audioSource=""
+	textSource=""
+	viewCount="165"
+	author="Lewis Carroll"
+	
+	
+	
+>
+
+	
+	<chapter 
+		audioUrl="http://library.dinglabs.com/books/files/76.mp3"
+		trsUrl="http://library.dinglabs.com/books/files/76.trs"
+		title="Chapter 1 (75% Speed)" />
+
+	
+	<chapter 
+		audioUrl="http://library.dinglabs.com/books/files/75.mp3"
+		trsUrl="http://library.dinglabs.com/books/files/75.trs"
+		title="Chapter 1 (50% Speed)" />
+
+
+</book>

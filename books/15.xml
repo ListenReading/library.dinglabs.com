@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<book xmlns="http://www.example.org/Book" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.example.org/Book Book.xsd " 
+	title="Raison et Sensibilit&#233;, ou les Deux Mani&#232;res d&#8217;aimer (Sense and Sensibility)" 
+	audioSource="http://www.litteratureaudio.com/livre-audio-gratuit-mp3/austen-jane-raison-et-sensibilite-ou-les-deux-manieres-daimer.html"
+	textSource="http://fr.wikisource.org/wiki/Raison_et_Sensibilit%C3%A9"
+	viewCount="126"
+	author="Jane Austen"
+	
+	
+	
+>
+
+	
+		<section title="Tome I" />
+	
+	<chapter 
+		audioUrl="http://library.dinglabs.com/books/files/180.mp3"
+		trsUrl="http://library.dinglabs.com/books/files/180.trs"
+		title="Chapitre I" />
+
+
+</book>

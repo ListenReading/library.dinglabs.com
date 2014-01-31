@@ -1,0 +1,137 @@
+
+
+body {
+	font: 82% Arial,Helvetica,sans-serif;
+/*	font-family: verdana,arial,helvetica,sans-serif;*/
+	color: #000000;
+	background-color: #FFFFFF;
+	font-size: small;
+	margin: 3px 8px 0;
+}
+
+img {
+	border: 0;
+}
+
+h2 {
+	background: none repeat scroll 0 0 #E5ECF9;
+	border-top: 1px solid #89A9E4;
+	font-size: 108%;
+	font-weight: bold;
+	padding: 4px 6px;
+	margin: 0;
+}
+
+.main-bar {
+	float: left;
+	height: 22px;
+	font-size: 13px;
+	padding-top: 1px;
+	white-space: nowrap;
+}
+
+.main-bar a.link {
+	color: #0000CC;
+}
+.main-bar .link {
+	margin-right: 0.5em;
+}
+
+.main-logo {
+	clear: both;
+	padding-top: 10px;
+}
+.main-content {
+	padding-top: 10px;
+}
+.main-gbh {
+	right: 0;
+	left: 0;
+	height: 0;
+	position: absolute;
+	top: 24px;
+	width: 100%;
+	border-top: 1px solid #C9D7F1;
+	font-size: 1px;
+}
+
+.title {
+	font-size: 120%;
+}
+
+.book .title {
+	font-size: large;
+	font-weight: bold;
+}
+
+.book .authors {
+	font-size: small;
+	font-weight: normal;
+}
+
+a.language {
+	font-size: small;
+	font-weight: normal;
+	color: green;
+}
+
+.label {
+	color: #777777;
+}
+
+table.bookList {
+	border-spacing: 0;
+	border-bottom: 1px solid #CCCCCC;
+	margin: 10px 0;
+	width: 100%;
+}
+
+.bookListCell {
+	padding: 8px 5px;
+}
+
+th.bookList {
+	text-align: left;
+	border-bottom: 1px solid #CCCCCC;
+}
+
+tr.bookListRow_odd {
+	background: none repeat scroll 0 0 #EFEFEF;
+}
+
+#books-restrict {
+	padding: 11px 6px 0;
+}
+
+.bookSpacer {
+	height: 10px;	
+}
+
+a.launch {
+	margin-top: 3px;
+}
+
+
+.chaptersHeading {
+	padding-top: 10px;
+	color: gray;
+}
+
+.chapters {
+	padding-left: 10px;
+}
+
+.chapters .chapter {
+	padding-bottom: 5px;
+	padding-left: 10px;
+	padding-top: 5px
+}
+
+.sectionTitle {
+	font-weight: bold;
+	padding-top: 10px;
+}
+
+.error {
+	color: red;
+}

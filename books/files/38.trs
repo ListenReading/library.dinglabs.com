@@ -1,0 +1,449 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="jim" audio_filename="1_French1" version="1" version_date="100228">
+<Speakers>
+<Speaker id="spk1" name="Steve" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="Henry" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk3" name="&lt;title>" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="631.890045351">
+<Turn startTime="0" endTime="20.73" speaker="spk3">
+<Sync time="0"/>
+FrenchLingQ, #0 FrenchLingQ Podcast
+</Turn>
+<Turn speaker="spk1" startTime="20.73" endTime="31.484">
+<Sync time="20.73"/>
+Aujourd’hui, on va commencer le premier podcast en français, 
+<Sync time="25.278"/>
+et nous avons ici avec nous, 
+<Sync time="27.929"/>
+Henry Prêcheur, qui est un vrai français…je crois, enfin.
+</Turn>
+<Turn speaker="spk2" startTime="31.484" endTime="36.669">
+<Sync time="31.484"/>
+Tout à fait, oui. 
+<Sync time="33.19"/>
+Ah, Je n’ai pas passé toute ma vie en France mais quasiment toute ma vie.
+</Turn>
+<Turn speaker="spk1" startTime="36.669" endTime="37.255">
+<Sync time="36.669"/>
+Ah bon?
+</Turn>
+<Turn speaker="spk2" startTime="37.255" endTime="40.547">
+<Sync time="37.255"/>
+Oui, j’ai vécu six ans en Afrique aussi.
+</Turn>
+<Turn speaker="spk1" startTime="40.547" endTime="42.202">
+<Sync time="40.547"/>
+Ah bon, où en Afrique?
+</Turn>
+<Turn speaker="spk2" startTime="42.202" endTime="45.206">
+<Sync time="42.202"/>
+En Egypte et au Kenya.
+</Turn>
+<Turn speaker="spk1" startTime="45.206" endTime="50.26">
+<Sync time="45.206"/>
+En Egypte et au Kenya… parce que vos parents, votre père travaillait là? Ah bon.
+</Turn>
+<Turn speaker="spk2" startTime="50.26" endTime="55.745">
+<Sync time="50.26"/>
+C’est pour ça que j’y ai été quand j’étais enfant. 
+<Sync time="52.489"/>
+Je n’ai pas beaucoup de souvenir, mais c’était une grande, grande expérience.
+</Turn>
+<Turn speaker="spk1" startTime="55.745" endTime="59.861">
+<Sync time="55.745"/>
+Est-ce que vous avez appris l’arabe, et le je ne sais pas quoi, qu’est-ce qu’ils parlent au Kenya?
+</Turn>
+<Turn speaker="spk2" startTime="59.861" endTime="60.668">
+<Sync time="59.861"/>
+Le Souali.
+</Turn>
+<Turn speaker="spk1" startTime="60.668" endTime="61.626">
+<Sync time="60.668"/>
+Le Souali?
+</Turn>
+<Turn speaker="spk2" startTime="61.626" endTime="66.306">
+<Sync time="61.626"/>
+Non, non, non, non. 
+<Sync time="62.948"/>
+On parlait plutôt, là où on était, on parlait plutôt anglais.
+</Turn>
+<Turn speaker="spk1" startTime="66.306" endTime="66.768">
+<Sync time="66.306"/>
+Oui!
+</Turn>
+<Turn speaker="spk2" startTime="66.768" endTime="76.197">
+<Sync time="66.768"/>
+Mais non, les langues locales, il n’y a pas beaucoup de moyen de l’apprendre. 
+<Sync time="71.404"/>
+Peut- être qu’un jour il y aura un LingQ pour apprendre l’arabe et surtout le Souali.
+</Turn>
+<Turn speaker="spk1" startTime="76.197" endTime="114.363">
+<Sync time="76.197"/>
+Bien sûr, 
+<Sync time="77.262"/>
+mais ça va sans dire, ça va sans dire. 
+<Sync time="79.425"/>
+Bon, 
+<Sync time="81.247"/>
+je vais présenter Henry, parce que Henry est un de nos programmeurs 
+<Sync time="86.724"/>
+qui travaille justement sur le développement de notre système, 
+<Sync time="90.647"/>
+programmeur très doué. 
+<Sync time="94.023"/>
+Nous sommes allés en France le chercher parce qu’il avait toute une gamme d’expérience et de talent qu’on ne trouvait pas ailleurs, 
+<Sync time="105.226"/>
+n’est-ce pas? 
+<Sync time="107.755"/>
+Non, mais comment ça se fait que vous êtes au Canada? 
+<Sync time="110.312"/>
+Tu es au Canada, finalement on va se tutoyer.
+</Turn>
+<Turn speaker="spk2" startTime="114.363" endTime="149.505">
+<Sync time="114.363"/>
+Je suis venu au Canada 
+<Sync time="116.732"/>
+tout simplement pour l’envie de voyager, ça faisait un petit moment que j’avais commencé à travailler en France. Voilà, une occasion s’est présentée d’aller au Canada. 
+<Sync time="132.146"/>
+J’habitais à Paris ; Paris est une grande ville, il n’y a pas beaucoup de nature, il y a beaucoup plus de nature ici au Canada, et spécialement à Vancouver. 
+<Sync time="140.862"/>
+Et puis il y a l’envie de changer d’air, et surtout oui, le fait de pouvoir éventuellement travailler à LingQ.
+</Turn>
+<Turn speaker="spk1" startTime="149.505" endTime="156.264">
+<Sync time="149.505"/>
+Bien sûr. 
+<Sync time="152.107"/>
+Mais comme ça, 
+<Sync time="154.006"/>
+je crois que tu es originaire de Nancy.
+</Turn>
+<Turn speaker="spk2" startTime="156.264" endTime="157.226">
+<Sync time="156.264"/>
+Oui, voilà.
+</Turn>
+<Turn speaker="spk1" startTime="157.226" endTime="159.485">
+<Sync time="157.226"/>
+Qui est dans quel département de la France?
+</Turn>
+<Turn speaker="spk2" startTime="159.485" endTime="166.641">
+<Sync time="159.485"/>
+C’est en Meurthe-et-Moselle, ça se situe dans la région Lorraine, 
+<Sync time="162.636"/>
+c’est à l’est de la France, ce n’est pas très loin de l’Allemagne et de la Belgique.
+</Turn>
+<Turn speaker="spk1" startTime="166.641" endTime="167.883">
+<Sync time="166.641"/>
+Oui.
+</Turn>
+<Turn speaker="spk2" startTime="167.883" endTime="176.447">
+<Sync time="167.883"/>
+C’est une petite ville qui est assez récente, ça va faire une petite centaine d’années qu’elle s’est développée.
+</Turn>
+<Turn speaker="spk1" startTime="176.447" endTime="179.92">
+<Sync time="176.447"/>
+Oui. 
+<Sync time="177.122"/>
+C’est au sud ou au nord de Strasbourg?
+</Turn>
+<Turn speaker="spk2" startTime="179.92" endTime="185.115">
+<Sync time="179.92"/>
+C’est à peu près la même hauteur que Strasbourg, 
+<Sync time="183.104"/>
+c’est à l’ouest de Strasbourg plutôt.
+</Turn>
+<Turn speaker="spk1" startTime="185.115" endTime="193.828">
+<Sync time="185.115"/>
+Est-ce que là les gens… parce que je sais qu’à Strasbourg les gens parlent 
+<Sync time="190.98"/>
+presque une… c’est un patois de l’Allemand, si je ne m’abuse?
+</Turn>
+<Turn speaker="spk2" startTime="193.828" endTime="194.255">
+<Sync time="193.828"/>
+Oui.
+</Turn>
+<Turn speaker="spk1" startTime="194.255" endTime="197.421">
+<Sync time="194.255"/>
+Et à Nancy, est-ce qu’il y a un patois local?
+</Turn>
+<Turn speaker="spk2" startTime="197.421" endTime="219.185">
+<Sync time="197.421"/>
+Non, non, non pas vraiment. 
+<Sync time="198.891"/>
+Les gens parlent français, 
+<Sync time="200.777"/>
+français français; 
+<Sync time="202.669"/>
+mais, il y avait quelques patois locaux mais ça a complètement disparu aujourd’hui, plus personne ne parle le patois dans le coin, 
+<Sync time="215.107"/>
+même-ci c’est vrai que la Lorraine a été rattachée assez récemment à la France.
+</Turn>
+<Turn speaker="spk1" startTime="219.185" endTime="221.043">
+<Sync time="219.185"/>
+Rattachée.
+</Turn>
+<Turn speaker="spk2" startTime="221.043" endTime="237.122">
+<Sync time="221.043"/>
+Oui. 
+<Sync time="221.88"/>
+A la base, c’était un duché donc qui était, il y avait un Duc de Lorraine qui présidait en quelque sorte la région, et 
+<Sync time="232.498"/>
+c’était sous Louis XVI ou Louis XV, ça été rattaché au royaume de France.
+</Turn>
+<Turn speaker="spk1" startTime="237.122" endTime="238.092">
+<Sync time="237.122"/>
+Ah bon?
+</Turn>
+<Turn speaker="spk2" startTime="238.092" endTime="239.789">
+<Sync time="238.092"/>
+Oui, oui, oui.
+</Turn>
+<Turn speaker="spk1" startTime="239.789" endTime="247.819">
+<Sync time="239.789"/>
+Mais c’était au moment de la guerre entre la Prusse et la France que la Lorraine, 
+<Sync time="246.471"/>
+non? Alsace Lorraine?
+</Turn>
+<Turn speaker="spk2" startTime="247.819" endTime="276.887">
+<Sync time="247.819"/>
+Non, ça c’est encore une autre chose. 
+<Sync time="252.341"/>
+L’Alsace, une partie de la Lorraine est passée en territoire, 
+<Sync time="258.263"/>
+à l’Allemagne pendant… sous l’époque de Napoléon 3. 
+<Sync time="263.267"/>
+Il y a eu une guerre effectivement entre la Prusse et la France, 
+<Sync time="267.198"/>
+mais après l’Alsace et la Lorraine ont été repris, et elles ont été reperdu pendant d’autres guerres mais oui, c’est une histoire assez compliquée.
+</Turn>
+<Turn speaker="spk1" startTime="276.887" endTime="288.99">
+<Sync time="276.887"/>
+Compliquée. 
+<Sync time="277.994"/>
+Mais, 
+<Sync time="278.788"/>
+donc quand tu es arrivé ici à Vancouver, 
+<Sync time="282.254"/>
+est-ce que tu as éprouvé des difficultés à communiquer en anglais? 
+<Sync time="287.27"/>
+Est-ce que ça crée des problèmes pour toi?
+</Turn>
+<Turn speaker="spk2" startTime="288.99" endTime="348.338">
+<Sync time="288.99"/>
+Oui, oui, parce que j’avais évidemment appris l’anglais à l’école, 
+<Sync time="293.84"/>
+mais l’apprentissage de l’anglais à l’école n’est pas vraiment motivant. 
+<Sync time="300.474"/>
+Ce qui m’a fait plus apprendre l’anglais c’est mon travail, parce quand on travaille dans la programmation, 
+<Sync time="308.708"/>
+tout est en anglais. 
+<Sync time="310.105"/>
+J’ai aussi été amené à lire beaucoup de documentation en anglais mais je ne savais pas vraiment m’exprimer, 
+<Sync time="315.88"/>
+parler oralement en anglais. 
+<Sync time="317.902"/>
+Je pensais que je pouvais le faire, 
+<Sync time="320.7"/>
+mais en réalité, tant qu’on ne pratique pas, 
+<Sync time="323.718"/>
+on n’est pas vraiment à l’aise. 
+<Sync time="328.284"/>
+Donc, j’avais un petit peu parlé dans des cafés, dans des bars à Paris à des Anglais, mais ça se limitait à quelques conversations assez rapides et c’est vrai que 
+<Sync time="338.983"/>
+le début a été un peu difficile, mais au bout de quinze jours, on arrive assez vite à communiquer. 
+<Sync time="345.594"/>
+On se débrouille beaucoup mieux qu’au début.
+</Turn>
+<Turn speaker="spk1" startTime="348.338" endTime="374.815">
+<Sync time="348.338"/>
+Oui 
+<Sync time="349.06"/>
+et je sais que, enfin, tous nos amis qui nous écoutent, qui apprennent le français avec LingQ 
+<Sync time="354.564"/>
+s’impatientent, 
+<Sync time="356.380"/>
+pourquoi ça prend si longtemps? 
+<Sync time="358.254"/>
+Est-ce que vos programmeurs sont 
+<Sync time="361.407"/>
+extra lent, 
+<Sync time="362.66"/>
+qu’est-ce qui ce passe? 
+<Sync time="363.76"/>
+Enfin j’ai, chaque jour, j’ai un tas d’e-mails, 
+<Sync time="367.117"/>
+des gens qui se plaignent, non ce n’est pas vrai! 
+<Sync time="369.599"/>
+Mais comment ça marche, comment ça va avec le développement 
+<Sync time="373.496"/>
+de LingQ maintenant?
+</Turn>
+<Turn speaker="spk2" startTime="374.815" endTime="453.651">
+<Sync time="374.815"/>
+Ça ce passe bien. 
+<Sync time="378.228"/>
+On fait beaucoup de progrès, il y a beaucoup de choses qui devraient arriver d’ici peu de temps, 
+<Sync time="383.856"/>
+mais comme pour tout développement il faut toujours être prudent, 
+<Sync time="388.292"/>
+essayer de bien tester les choses en interne, car je pense qu’il n’y a rien de pire pour un utilisateur 
+<Sync time="393.32"/>
+de se retrouver sur un produit 
+<Sync time="396.196"/>
+non fini ou mal fini. 
+<Sync time="399.790"/>
+Donc ce qu’on essaye de faire, 
+<Sync time="403.063"/>
+ce qu’on va faire 
+<Sync time="405.499"/>
+c’est d’introduire de nouvelles fonctionnalités, 
+<Sync time="408.805"/>
+le plus tester possible, de la meilleure qualité possible, pour que le confort soit là et que, 
+<Sync time="416.675"/>
+plus, le but étant de bien sûr de plus introduire des nouvelles fonctionnalités qui vont permettre de mieux apprendre mais, surtout des fonctionnalités qui vont marcher, qui vont être facile à utiliser, 
+<Sync time="427.735"/>
+qui vont faire que les gens vont vraiment prendre plaisir à apprendre les langues, en tout cas plus que sur les autres systèmes. 
+<Sync time="440.729"/>
+J’avais essayé d’utiliser quand j’étais plus jeune un CD-Rom d’apprentissage des langues et c’est toujours très compliqué. 
+<Sync time="448.263"/>
+On ne comprend pas toujours ce qui ce passe, 
+<Sync time="450.671"/>
+où on veut en venir et souvent c’est très ennuyeux.
+</Turn>
+<Turn speaker="spk1" startTime="453.651" endTime="509.662">
+<Sync time="453.651"/>
+Oui, c’est exact. 
+<Sync time="455.331"/>
+Je blaguais quand je disais que l’on est impatient. 
+<Sync time="458.004"/>
+On est impatient, mais on ne veut pas quelque chose qui ne fonctionne pas bien. 
+<Sync time="462.293"/>
+Je dois dire aussi que notre site est quand même d’une très grande complexité, 
+<Sync time="466.909"/>
+très grande complexité 
+<Sync time="468.893"/>
+à beaucoup de niveaux. 
+<Sync time="470.801"/>
+Surtout maintenant, 
+<Sync time="472.511"/>
+je crois qu’on veut mettre l’accent sur 
+<Sync time="475.3"/>
+l’aspect, bon, que ça soit plaisant, que ça soit agréable. 
+<Sync time="478.302"/>
+On va mettre l’accent sur tout ce qui est communauté etc. 
+<Sync time="481.64"/>
+pour que les gens puissent avoir 
+<Sync time="483.599"/>
+du plaisir, 
+<Sync time="484.389"/>
+parce que justement comme tu avais dit dans l’école, 
+<Sync time="487.788"/>
+la plupart des gens n’aiment pas l’étude des langues. 
+<Sync time="489.989"/>
+Donc, ce n’est pas la peine de faire un système qui ne soit pas plaisant, 
+<Sync time="493.69"/>
+que les gens n’aiment pas utiliser. 
+<Sync time="495.674"/>
+Donc tout ca, ça implique beaucoup de conception d’un site, mais aussi de travail sur toute la complexité, 
+<Sync time="506.989"/>
+et d’être sûr que tout fonctionne bien.
+</Turn>
+<Turn speaker="spk2" startTime="509.662" endTime="575.613">
+<Sync time="509.662"/>
+Tout fonctionne d’une manière 
+<Sync time="512.572"/>
+plaisante même pour, 
+<Sync time="514.643"/>
+quand les utilisateurs, les gens qui ne connaissent pas LingQ, c’est toujours difficile 
+<Sync time="519.153"/>
+quand on travaille sur un produit qu’on sait vraiment là où on veut en venir, d’essayer de faire comprendre aux gens aussi 
+<Sync time="525.215"/>
+pourquoi le système est comme ça, 
+<Sync time="527.354"/>
+pourquoi il faut l’utiliser de telle façon et pas d’une autre. 
+<Sync time="530.316"/>
+Parfois, c’est des choses qui sont difficiles. Je pense que c’est vraiment quelque chose, c’est l’objectif de toute application d’avoir… 
+<Sync time="539.353"/>
+d’être le plus simple et le plus facile à utiliser. 
+<Sync time="542.933"/>
+C’est un problème à tous les niveaux dans la vie actuelle, 
+<Sync time="547.152"/>
+c’est une télécommande 
+<Sync time="549.899"/>
+pour une télévision c’est toujours très compliquée à utiliser ; quand on regarde par exemple l’Ipod, 
+<Sync time="555.668"/>
+l’Ipod c’est simplissime, 
+<Sync time="557.596"/>
+et pourquoi est-ce que la télévision n’est pas comme ça? 
+<Sync time="562.160"/>
+Le but, c’est d’essayer de devenir un peu l’Ipod de l’apprentissage des langues. Que tout le monde se disent oui, il y a pas, 
+<Sync time="568.976"/>
+c’est la seule façon de faire, 
+<Sync time="570.115"/>
+parce que c’est la 
+<Sync time="571.083"/>
+meilleure, parce c’est la plus simple. Et ça, c’est quelque chose sur lequel on essaye de travailler énormément.
+</Turn>
+<Turn speaker="spk1" startTime="575.613" endTime="611.833">
+<Sync time="575.613"/>
+Je crois que, 
+<Sync time="576.838"/>
+j’admets que nous avons mis beaucoup d’accent sur la fonctionnalité. 
+<Sync time="581.737"/>
+J’avais certains principes 
+<Sync time="584.251"/>
+de l’apprentissage des langues 
+<Sync time="585.632"/>
+et peut être qu’on est allé des fois, 
+<Sync time="587.216"/>
+je l’avoue, un peu trop loin dans cette direction-là. 
+<Sync time="590.448"/>
+Maintenant il faut qu’on rende le site 
+<Sync time="593.689"/>
+plus facile, 
+<Sync time="595.368"/>
+plus agréable etc. 
+<Sync time="597.201"/>
+et c’est pour cela qu’on est très content 
+<Sync time="599.66"/>
+que Henry est venu faire partie de notre équipe, et je crois que je suis très confiant, 
+<Sync time="606.492"/>
+qu’on va arriver à créer, enfin, à nous, c’est vous les programmeurs qui vont créer
+</Turn>
+<Turn speaker="spk2" startTime="611.833" endTime="612.925">
+<Sync time="611.833"/>
+tout le monde est impliqué…
+</Turn>
+<Turn speaker="spk1" startTime="612.925" endTime="625.238">
+<Sync time="612.925"/>
+enfin, 
+<Sync time="614.561"/>
+le meilleur site pour l’apprentissage des langues. 
+<Sync time="618.016"/>
+Voilà, ça été le premier podcast en français 
+<Sync time="622.656"/>
+et j’espère qu’on va en faire d’autres.
+</Turn>
+<Turn speaker="spk2" startTime="625.238" endTime="626.531">
+<Sync time="625.238"/>
+Il faut!
+</Turn>
+<Turn speaker="spk1" startTime="626.531" endTime="629.016">
+<Sync time="626.531"/>
+Il faut, il faut, il faut! 
+<Sync time="627.613"/>
+Okay, merci Henry.
+</Turn>
+<Turn speaker="spk2" startTime="629.016" endTime="630.193">
+<Sync time="629.016"/>
+De rien. Merci, Steve.
+</Turn>
+<Turn speaker="spk1" startTime="630.193" endTime="631.890045351">
+<Sync time="630.193"/>
+Okay, au revoir!
+</Turn>
+</Section>
+</Episode>
+</Trans>

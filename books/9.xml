@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<book xmlns="http://www.example.org/Book" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.example.org/Book Book.xsd " 
+	title="Andersen&#8217;s Fairy Tales (In Progress)" 
+	audioSource="http://librivox.org/andersens-fairy-tales-by-hc-andersen/"
+	textSource="http://www.gutenberg.org/etext/1597"
+	viewCount="123"
+	author="Hans Christian Andersen"
+	
+	
+	
+>
+
+	
+	<chapter 
+		audioUrl="http://library.dinglabs.com/books/files/74.mp3"
+		trsUrl="http://library.dinglabs.com/books/files/74.trs"
+		title="01 &#8211; The Emperor&#8217;s New Clothes" />
+
+
+</book>

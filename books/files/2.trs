@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="jim" audio_filename="asamanthinketh_0_allen" version="1" version_date="091123">
+<Speakers>
+<Speaker id="spk1" name="&lt;title>" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="&lt;p>" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="68.5453061224">
+<Turn startTime="0" endTime="23.906" speaker="spk1">
+<Sync time="0"/>
+*
+<Sync time="22.257"/>
+FOREWORD
+</Turn>
+<Turn speaker="spk2" startTime="23.906" endTime="42.488">
+<Sync time="23.906"/>
+THIS little volume 
+<Sync time="25.284"/>
+(the result of meditation and experience) 
+<Sync time="28.218"/>
+is not intended 
+<Sync time="29.374"/>
+as an exhaustive treatise on the much-written-upon subject of the power of thought. 
+<Sync time="34.272"/>
+It is suggestive rather than explanatory, 
+<Sync time="37.133"/>
+its object being to stimulate men and women to the discovery and perception of the truth that—
+</Turn>
+<Turn speaker="spk2" startTime="42.488" endTime="45.784">
+<Sync time="42.488"/>
+"They themselves are makers of themselves."
+</Turn>
+<Turn speaker="spk2" startTime="45.784" endTime="64.083">
+<Sync time="45.784"/>
+by virtue of the thoughts, which they choose and encourage; 
+<Sync time="49.249"/>
+that mind is the master-weaver, 
+<Sync time="51.649"/>
+both of the inner garment of character 
+<Sync time="53.913"/>
+and the outer garment of circumstance, 
+<Sync time="56.224"/>
+and that, 
+<Sync time="57.229"/>
+as they may have hitherto woven in ignorance and pain they may now weave in enlightenment 
+<Sync time="62.247"/>
+and happiness.
+</Turn>
+<Turn speaker="spk2" startTime="64.083" endTime="68.5453061224">
+<Sync time="64.083"/>
+JAMES ALLEN. 
+BROAD PARK AVENUE, 
+ILFRACOMBE, 
+ENGLAND
+<Sync time="65.32"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

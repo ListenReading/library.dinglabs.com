@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+
+<html>
+    <head>
+        <title>Spanish Library Content</title>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+        <link rel="stylesheet" type="text/css" media="screen" href="public/stylesheets/main.css">
+                <link rel="shortcut icon" type="image/ico" href="public/images/favicon.ico">
+        <script src="http://www.google.com/jsapi?key=ABQIAAAADedIi9EAVQfQh4Ifft60NxRhAc8DZQxiZnEYpuQXJrAKexAIgRRd2cI9-LhokP8DbPk4URe3iCoKjw"></script>
+        <script>google.load("jquery", "1.4.2");</script>
+            </head>
+    <body>
+    	<div class="main-bar">
+    		<b class="link">Library</b>
+    		<a class="link" target="_blank" href="http://reader.dinglabs.com">Reader</a>
+    		<a class="link" target="_blank" href="http://blog.dinglabs.com">Blog</a>
+    		<a class="link" target="_blank" href="http://twitter.com/dinglabs">Tweets</a>
+    	</div>
+    	<!-- 
+<div style="position:absolute; right:0px; top:25px;" id="google_translate_element"></div><script>
+function googleTranslateElementInit() {
+  new google.translate.TranslateElement({
+    pageLanguage: 'en'
+  }, 'google_translate_element');
+}
+</script><script src="http://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+ -->
+    	<div class="main-gbh"></div>
+    	<div class="main-logo">
+	    	<a href="books.html"><img src="public/images/dinglabs_library_logo.png" alt="DingLabs Library Logo"/></a>
+    	</div>
+    	<div class="main-content">
+    		<div>
+	Here you can browse books and other materials that have synchronized text and audio.
+	<br/>
+	There are books available in multiple languages.
+	Use the "Show only" drop-down box to show only materials in a particular language.
+	<br/>
+	To find out more about the DingLabs Reader, visit: <a href="http://dinglabs.com">http://dinglabs.com</a>.
+</div>
+<br/>
+<h2>Browse Books</h2>
+
+<div id="books-restrict">
+	Show only: <select id="language">
+		<option value="">Any Language</option>
+					<option value="1" >English</option>
+					<option value="2" >Mandarin Chinese</option>
+					<option value="3" selected="selected">Spanish</option>
+					<option value="4" >French</option>
+					<option value="5" >Japanese</option>
+			</select>
+</div>
+<div class="books">
+<table class="bookList">
+	<thead>
+		<tr>
+			<th class="bookList bookListCell">Book</th>
+			<th class="bookList bookListCell">Language</th>
+			<th class="bookList bookListCell">Views</th>
+		</tr>
+	</thead>
+	<tbody>
+				<tr class="bookListRow_odd">
+			<td class="bookListTitle bookListCell">
+				
+<a class="launch"
+   title="Play &quot;SpanishLingQ Podcast&quot; in the DingLabs Reader"
+   href="http://reader.dinglabs.com/#b:=http://library.dinglabs.com/books/5.xml">
+   <img src="public/images/play-32.png" height="22" width="22"/>
+</a>				<a class="title" href="books/5.html">SpanishLingQ Podcast</a>
+									by SpanishLingQ.com
+							</td>
+			<td class="bookListLanguage bookListCell">
+<a class="language"
+   title="View all Spanish books"
+   href="books@langId=3.html">Spanish</a></td>
+			<td class="bookListLanguage bookListCell">292</td>
+		</tr>		
+					</tbody>
+</table>
+</div>
+
+<p><br/>
+<a href="http://spreadsheets.google.com/viewform?formkey=dEN6endzc0VnbEF0RGVBX0ZNa3Y3cmc6MQ" target="_blank">Hey, why isn't my favorite book listed??</a>
+</p>
+<script type="text/javascript" charset="utf-8">
+	var bookListAction = function(options) {var pattern = 'books@langId=:languageId:.html'; for(key in options) { pattern = pattern.replace(':'+key+':', options[key]); } return pattern };
+
+	$('#language').change(function() {
+		window.location=bookListAction({languageId:$('#language').val()})
+	})
+</script>    	</div>
+    	
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-11423399-2");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+
+    </body>
+</html>

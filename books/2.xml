@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<book xmlns="http://www.example.org/Book" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.example.org/Book Book.xsd " 
+	title="As a Man Thinketh" 
+	audioSource="http://librivox.org/as-a-man-thinketh-by-james-allen/"
+	textSource="http://www.gutenberg.org/etext/4507"
+	viewCount="172"
+	author="James Allen"
+	
+	
+	
+>
+
+	
+	<chapter 
+		audioUrl="http://library.dinglabs.com/books/files/2.mp3"
+		trsUrl="http://library.dinglabs.com/books/files/2.trs"
+		title="Foreword" />
+
+	
+	<chapter 
+		audioUrl="http://library.dinglabs.com/books/files/3.mp3"
+		trsUrl="http://library.dinglabs.com/books/files/3.trs"
+		title="Thought and Character" />
+
+	
+	<chapter 
+		audioUrl="http://library.dinglabs.com/books/files/4.mp3"
+		trsUrl="http://library.dinglabs.com/books/files/4.trs"
+		title="Effect of Thought on Circumstances" />
+
+	
+	<chapter 
+		audioUrl="http://library.dinglabs.com/books/files/5.mp3"
+		trsUrl="http://library.dinglabs.com/books/files/5.trs"
+		title="Effect of Thought on Health and the Body" />
+
+	
+	<chapter 
+		audioUrl="http://library.dinglabs.com/books/files/6.mp3"
+		trsUrl="http://library.dinglabs.com/books/files/6.trs"
+		title="Thought and Purpose" />
+
+	
+	<chapter 
+		audioUrl="http://library.dinglabs.com/books/files/7.mp3"
+		trsUrl="http://library.dinglabs.com/books/files/7.trs"
+		title="The Thought-Factor in Achievement" />
+
+	
+	<chapter 
+		audioUrl="http://library.dinglabs.com/books/files/8.mp3"
+		trsUrl="http://library.dinglabs.com/books/files/8.trs"
+		title="Visions and Ideals" />
+
+	
+	<chapter 
+		audioUrl="http://library.dinglabs.com/books/files/9.mp3"
+		trsUrl="http://library.dinglabs.com/books/files/9.trs"
+		title="Serenity" />
+
+
+</book>

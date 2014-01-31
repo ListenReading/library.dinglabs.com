@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<book xmlns="http://www.example.org/Book" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.example.org/Book Book.xsd " 
+	title="FrenchLingQ Podcast" 
+	audioSource=""
+	textSource="http://www.lingq.com/learn/fr/store/25977/"
+	viewCount="606"
+	author="FrenchLingQ.com"
+	
+	
+	
+>
+
+	
+	<chapter 
+		audioUrl="http://library.dinglabs.com/books/files/38.mp3"
+		trsUrl="http://library.dinglabs.com/books/files/38.trs"
+		title="#0 FrenchLingQ Podcast" />
+
+
+</book>

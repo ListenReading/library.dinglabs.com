@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<book xmlns="http://www.example.org/Book" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.example.org/Book Book.xsd " 
+	title="SpanishLingQ Podcast" 
+	audioSource=""
+	textSource="http://www.lingq.com/learn/es/store/26324/#30463"
+	viewCount="293"
+	author="SpanishLingQ.com"
+	
+	
+	
+>
+
+	
+	<chapter 
+		audioUrl="http://library.dinglabs.com/books/files/37.mp3"
+		trsUrl="http://library.dinglabs.com/books/files/37.trs"
+		title="#1 Humberto, un ingeniero de petr&#243;leos de Venezuela" />
+
+
+</book>
